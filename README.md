@@ -1,3 +1,3 @@
 ### Hi 👋
 
-- 🌱 I’m currently learning NODEJS
+- 🌱 I’m currently learning Elixir
